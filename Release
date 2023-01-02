@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm64
+Codename: ios
+Components: main
+Date: Mon, 02 Jan 2023 18:24:19 +0000
+Description: smoke weed everyday
+Label: smokin'
+Origin: smokin'
+Suite: stable
+Version: 420.0
+MD5Sum:
+ b0f69e972f33548a691a25bf75b09883             1728 Packages
+ 8a1ae43060e3377a088a6b38d34e2b66             1052 Packages.bz2
+ f3318660b352a7a2265d1520d4ee1cda             1048 Packages.xz
+ f80120193cf88a48b7fdb25289a80433              971 Packages.zst
+ f6f9318176addf0eaa4ce0dd2bfdf3b6              192 Release
+SHA1:
+ bcdf63ac9edb37cf55ec6b0ad16cdf637ff83314             1728 Packages
+ 60823aa3a1e3f8205bd17db615515839fa0d55ec             1052 Packages.bz2
+ d1939df877dd437efdcae4ef534eb911ae8be998             1048 Packages.xz
+ 17670faf48291f249b1a1e1fe7dae0b697b35329              971 Packages.zst
+ 9889262424f741aa0bf44b43c30de9cb1e35acff              192 Release
+SHA256:
+ e6c3d8120dd81da1d52e7c97783f3ac35cbffdc8047a8656a376646f640c82c7             1728 Packages
+ 6c68fcf137d922b3476201f167932c09bf8439f09c596bb0140de350b644a6a5             1052 Packages.bz2
+ 6cfff3c8806fa1ae4e97996c823dd12403ceadecf3c967d33780ea0311164457             1048 Packages.xz
+ a3c5c99af74524223f33a42ad6224aaaecc4d55bc31fc2435c567c5e70b29bf3              971 Packages.zst
+ b4769bdeb5b8d2b2da4fadf225d486305d9acf7fca73528d249698d52de908e9              192 Release
+SHA512:
+ 24c1ae4979bce1fe2da9d3af7a6608f208812f713a59894179c49ff685cc06fb8c08b6b40cd83c0014fcccb93ad203d12f90230dfb4adb3285c1b2e9bd7970b8             1728 Packages
+ c87a52cde1ac905238f21358bf7e2748a9f5a1580ecc5c9c350ba107f62fbd3478c834a57b874ea12a8439bb960c674f4c85e635cd9d998de62063278e5653dd             1052 Packages.bz2
+ d6a7a0818bcf4508b010716d2ce916e471c38c1e9b659b05bcb4e9e2904d1df3afa0b7f76f24bcb6be66d3be147fd38e5adf4a286a8d18b73418647ecdc01af0             1048 Packages.xz
+ 0e87a498893d45597df0671a09f007864ef4b1956460b98d458cf2ffa70ed3699f9f6a8d9d6deaa4844c2b26624bc714683c5ca658cf46faa4ffb1465eed90c0              971 Packages.zst
+ 83faa14f6eb776bec27a27dd6cef4531bf1ddd9b8984fefb9ac75bbb75eed21fdde3031515ba94cfb1178d078280657efc055a6dcf674a8dcd68427e7e4a6040              192 Release

@@ -1,0 +1,46 @@
+.pkgmgr>img,
+.pkgmgr>img:hover {
+    border-radius: 16px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1)!important;
+    background: transparent;
+    margin: 5px;
+}
+
+.pkgmgr:not(.soon)>img:hover {
+  background: linear-gradient(white, white) padding-box, repeating-linear-gradient(45deg, violet, indigo, blue, green, yellow, orange, red, violet) border-box;
+  border-radius: 16px;
+  animation: rainbow 8s ease infinite;
+  background-size: 500% 500%;
+  border: 4px solid transparent;
+  margin: 0px;
+}
+
+.pkgmgr,
+.pkgmgr:hover {
+    margin: 5px;
+    width: 65px;
+    height: 65px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1)!important;
+}
+
+
+.pkgmgr:not(.soon):hover > img {
+  margin: 0;
+}
+
+.soon>img {
+    filter: grayscale(1);
+    opacity: 0.5
+}
+
+@keyframes rainbow {
+  0% {
+      background-position: 0% 50%
+  }
+  50% {
+      background-position: 100% 25%
+  }
+  100% {
+      background-position: 0% 50%
+  }
+}
