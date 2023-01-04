@@ -1,31 +1,19 @@
-# repo666.ultrasn0w.uk - a parody of the old ultrasn0w repo
-
-![New Project (1)](https://user-images.githubusercontent.com/59025363/208972758-b11fbcbf-7a00-4eaa-b75c-0b013ef14955.png)
-
-
-
-
-This repository is an attempt of a remake of AFRIOS, as-in attempting to fix several package manager download and view issues.
-Thanks to this succeeding, we now primarily host tweaks, applications, and bootloopers, but also with package managers.
-Including but not limited to: Setup, Cheyote ETA Checker, Sileo, YouTube Reborn, etc.
-
-Credits:
-
-[elihwyma for repo structure](https://github.com/elihwyma/)
-
-[CoolStar for repo structure as well](https://twitter.com/CStar_OW)
-
-[saurik for Cydia](https://twitter.com/saurik)
-
-[Procursus Team for Cydia and Sileo debs](https://twitter.com/procursusteam)
-
-[nyuszika7h/0xallie for FakePass](https://github.com/0xallie)
-
-[LillieH001 for Reborn](https://github.com/LillieH001)
-
-[BomberFish for helping with CSS things](https://github.com/bomberfish/)
-
-[iPhone Dev Team for the idea of making the ultrasn0w repo and making it possible!](https://twitter.com/iphone_dev)
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://repo666.ultrasn0w.uk/css/styles.css">
+  <link rel="stylesheet" href="https://repo666.ultrasn0w.uk/css/repo.css">
+</head>
+<body>
+<h1 id="rainbow" style="text-align: center;">smokin' repo/h1>
+<p style="text-align: center;">the dev team repo except rootless</p>
+<p style="text-align: center;"><br /><a class="pkgmgr" href="sileo://source/https://repo420.ultrasn0w.uk/" target="_blank"><img src="css/sileo.png" alt="Add to Sileo" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp; <a class="pkgmgr" href="zbra://sources/add/https://repo420.ultrasn0w.uk/" target="_blank"><img src="css/zbra.png" alt="Add to Zebra" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp; <a class="pkgmgr" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo420.ultrasn0w.uk/"><img src="css/cydia.png" alt="Add to Cydia" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp; <a class="pkgmgr" href="installer://add/https://repo420.ultrasn0w.uk/" target="_blank"><img src="css/installer.png" alt="Add to Installer" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp; <a class="pkgmgr" href="apt-repo://https://repo420.ultrasn0w.uk" target="_blank"><img src="css/saily.png" alt="Add to Saily" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp;<br /><br /></p>
+<p style="text-align: center;">Is your package manager not here? just add <code>https://repo420.ultrasn0w.uk</code> to your repo list!</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">For the rootfull version, please click <a href="https://github.com/m00nl1ghts/m00nl1ghts.github.io/">here</a>.</p>.
+ 
+</body>
+</html>
