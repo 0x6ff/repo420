@@ -36,6 +36,7 @@ jobs:
           
       - name: Regen Repo
         run: |
+          chmod +x repo.sh
           ./repo.sh
           
       - name: Commit To Repo
