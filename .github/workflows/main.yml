@@ -19,7 +19,6 @@ jobs:
       - name: Install dependencies with APT
         run: |
           sudo apt install xz-utils bzip2 zstd
-          rm Packages Packages.zst Packages.xz Release Release.gpg Packages.bz2
           
       - name: Import GPG
         run: |
