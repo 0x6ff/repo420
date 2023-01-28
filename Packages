@@ -1,0 +1,39 @@
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Applications
+Maintainer: opa334
+Filename: ./pool/com.opa334.trollstorehelper_1.1.1_iphoneos-arm64.deb
+Size: 211760
+MD5sum: 7dd8638de97986c6f2483946c3e05a87
+SHA1: 1a84ab77b8b1840edec925f70587e3bc976d9220
+SHA256: 290dbbe5c98bc794506c1a49bf8c504c38b0a6ebccf133cf408cce766953fcc8
+SHA512: 38efa369223ff6101a61fe9edc6207d9777f8bb7caf4389115986035c978034feb6346c7f7a458142b827769f5381a589b043f34178703acdcd4c0e58caa8020
+Description: Helper utility to install and manage TrollStore!
+Name: TrollStore Helper
+Author: opa334
+
+Package: ws.hbang.newterm2
+Architecture: iphoneos-arm64
+Version: 2.99
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 1520
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, bash, coreutils, ncurses, system-cmds (>= 880.60.2)
+Recommends: iterm2-shell-integration, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./pool/ws.hbang.newterm2_2.99_iphoneos-arm64.deb
+Size: 505878
+MD5sum: b861d16ef57cc92c281c910b9cc60195
+SHA1: d52a49d100e853ab88ff2cf49280aff59b89a156
+SHA256: 88e1626eaa22797b25d836cdc97880d4f6bcef55a62d4ddd6f90028d11e75a82
+SHA512: 6ab5195f6452dcc92a46cf7117e1ee36a42604c66d4e0963323f9e1d7bf1b7fdd39fc5b3bef5867bbbcaf3eefeb662d29bec535393fc90d9779d93803e52918a
+Description: A powerful terminal app for iOS
+Tag: compatible_min::ios10.0
+Name: NewTerm 2
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Depiction: https://chariz.com/get/newterm
+Support: https://hashbang.productions/support/
+
