@@ -30,6 +30,10 @@ jobs:
         run: |
           echo '/opt/procursus/sbin:/opt/procursus/bin' >> $GITHUB_PATH
           
+      - name: Install dependencies with APT
+        run: |
+          sudo apt install xz-utils bzip2 zstd
+          
       - name: Import GPG
         run: |
           echo -n "${{ secrets.GPG_PUBKEY }}" | base64 --decode | gpg --import
