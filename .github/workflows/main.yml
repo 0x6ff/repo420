@@ -18,7 +18,7 @@ jobs:
           
       - name: Install dependencies with APT
         run: |
-          sudo apt install xz-utils bzip2 zstd gpg-suite
+          sudo apt install xz-utils bzip2 zstd
           
       - name: Import GPG
         run: |
