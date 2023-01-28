@@ -32,7 +32,7 @@ jobs:
           
       - name: Import GPG
         run: |
-          echo -n "${{ secrets.GPG_KEY }}" | base64 --decode | gpg --import
+          echo -n "${{ secrets.GPG_PUBKEY }}" | base64 --decode | gpg --import
           
       - name: Regen Repo
         run: |
