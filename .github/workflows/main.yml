@@ -19,15 +19,17 @@ jobs:
       - name: Install dependencies with APT
         run: |
           sudo apt install xz-utils bzip2 zstd
+          rm Packages Packages.zst Packages.xz Release Release.gpg Packages.bz2
           
       - name: Import GPG
         run: |
+          echo -n "${{ secrets.GPG_SECKEY }}"| base64 --decode | gpg --import
           echo -n "${{ secrets.GPG_PUBKEY }}" | base64 --decode | gpg --import
           
       - name: Regen Repo
         run: |
           chmod +x repo.sh
-          ./repo.sh
+          bash repo.sh
           
       - name: Commit To Repo
         uses: EndBug/add-and-commit@v7.0.0
