@@ -39,6 +39,21 @@ Description: ElleKit tweak injection libraries and loader
 Name: ElleKit (Beta)
 Author: Evelyn
 
+Package: com.hephaestus.iphoneos-arm
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Architectures
+Maintainer: afastaudir8
+Filename: ./pool/iphoneos-arm64.deb
+Size: 650
+MD5sum: 7533aa08b7566eda2a9f40dc9b69d0a8
+SHA1: e16a50d4a2206663802d22a01ea52a5a5680a236
+SHA256: 8021f8b4d9ae9dce5394d2979474af6542b1892acd03d8f3ccf2cbda2ea24cb2
+SHA512: e025ea2e01bc28ee990ce3a6cd3aba94023853d2f2365f9e28eaa7ca8602e69ffdb3f88e2f52f2f899100b2f2fe6cf317b8719e2b256c76a9f0dacbe309101f1
+Description: adds iphoneos-arm to a rootless device to allow adding rooted repos on rootless. MAY BREAK TWEAK INJECTION ON ROOTLESS.
+Name: iphoneos-arm
+Author: afastaudir8
+
 Package: ws.hbang.newterm2
 Architecture: iphoneos-arm64
 Version: 2.99
