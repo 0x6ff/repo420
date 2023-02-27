@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm64
 Codename: ios
 Components: main
-Date: Sun, 26 Feb 2023 01:10:08 +0000
+Date: Mon, 27 Feb 2023 01:03:37 +0000
 Description: smoke weed everyday
 Label: smokin'
 Origin: smokin'
@@ -12,22 +12,22 @@ MD5Sum:
  3684d31f6fc25331f2136d50eed6bdd4             1969 Packages.bz2
  ebee646969b892662f90219ebd7cdf09             1920 Packages.xz
  c3cc33d7295c512eb96c385c53b71536             1865 Packages.zst
- b455e824a8bc84508c6c3a4b50012a8c              192 Release
+ 5ed5b898d9bdca3a146dc75e9d3e7915              192 Release
 SHA1:
  369c2143048c01ab3f488c7a16413a4fbcdb3014             3659 Packages
  3af3e4e94c31a4eaadffb949f8f76c5e39fa63ee             1969 Packages.bz2
  6947138f0a0abf05935cf0c15498ea070c0366a8             1920 Packages.xz
  bb3088b55f9f42a58e270ff9676928ce40827d15             1865 Packages.zst
- f05b01b5fa267d48b32e6f35a2581054aa2c45b4              192 Release
+ 7d6bc5d58d70d5de7a4e53d83764cdd50728e218              192 Release
 SHA256:
  52c8bcd6df07434a84853eb9c5dff3a5ec570e886f2e323b890afac75158e8b0             3659 Packages
  372128ab2b4d76e4635993be7c4633cfd38e4861828e517041354d1cea9fcfae             1969 Packages.bz2
  31ef85127312630bafb28b018f66ff73f66fecb9bf1e42d3840c6d635411eab7             1920 Packages.xz
  104ba624ad96ccaaaa3f3f73c60b42e692a5ba3af219a310e59a9836d15abe4f             1865 Packages.zst
- 3b90ee0b8f912928a2ddfc348c1303341be819385d0122c8ab31b7ffd332f871              192 Release
+ 0598d70c5ac8b734e01b707cd9cbeefe0f5618f85f4d670689ede91b25c8cd95              192 Release
 SHA512:
  4990c39aab9a2c161a16e483b4683d4e65fb24709fcf4634fe478ca6ae7b9d2f189b623496fdf5ad7954cd1ff763a6f163e96afbba34d4ab0a5fac70237883eb             3659 Packages
  31d0338d0115cdbd98585991e86af8c7f3208fcd7d77193e6c92dd7e2d101ca80b5a2690c5e1461cdb4a3212d3be3b691bb78babcda62ab25a14659fe106f34b             1969 Packages.bz2
  28645449e0988162f477a15ac4d5093cc8f168d0ae05d2eefef72c62f4e5d078f2d00830e30d6169d64056fa7660660f0f64adc87fe7695796834204b51a3d1f             1920 Packages.xz
  168d8523009003057f902a4ef5bff0332f0e3fcbcc4560f35a7de57163c4339f9b50585451d0fa246df1285d37cd9e211c2d58ff1698cbffe05640aedd580a49             1865 Packages.zst
- 9c9e32f2643a6c1dc04104edbe93bef85086447eb14c929906b9eba0ed2f981ed0adbcfcf450731199f5c149b96776327b08ef2d090cd0f16682ba0aa8ca6238              192 Release
+ 45ffacb20238ab84970a441f418967900b7e36304bde91a84b06a42986c264a8b0ba46648bbcf67f6add65d2a1204ea970d0a5e16507e5b2a55bd497806882e9              192 Release
